@@ -1,0 +1,20 @@
+rotate (*a int 
+int temp = a[size-1]
+for size-1 to 1	
+	a[i]=a[i-1]
+
+a[0]=temp 
+
+
+
+ * toreturn  = new sg
+toreturn ->name 
+
+return toreturn
+
+keep the same ::
+for i = size -1
+reret[i]= new double []
+
+
+cout 
